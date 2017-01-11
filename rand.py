@@ -53,22 +53,25 @@ coinAvg100 = avg(100, coin)
 coinAvg1000 = avg(1000, coin)
 coinAvg10000 = avg(10000, coin)
 
-
+print "Count for dice roll occurings 10/100/1K/10K"
 print dice10
 print dice100
 print dice1000
 print dice10000
 
+print "Average value for dice rolls 10/100/1K/10K"
 print diceAvg10
 print diceAvg100
 print diceAvg1000
 print diceAvg10000
 
+print "Count for coin flip occurings 10/100/1K/10K"
 print coin10
 print coin100
 print coin1000
 print coin10000
 
+print "Average value for coin flips 10/100/1K/10K"
 print coinAvg10
 print coinAvg100
 print coinAvg1000
